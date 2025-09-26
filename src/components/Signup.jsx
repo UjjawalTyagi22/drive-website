@@ -30,15 +30,8 @@ const Signup = () => {
           <div className="bg-white rounded-xl shadow-md px-10 py-8 w-full max-w-md">
             {/* Logo and Title */}
             <div className="text-center mb-4">
-              <div className="text-2xl font-bold text-blue-600 mb-1">DRiVE</div>
-              <div className="text-sm text-gray-500 mb-6">
-                Disaster Resilience in Virtual Education
-              </div>
               <div className="text-xl font-semibold text-gray-800 mb-2">
                 Create Account
-              </div>
-              <div className="text-gray-500 text-sm">
-                Join us and start your learning journey in disaster preparedness.
               </div>
             </div>
 
